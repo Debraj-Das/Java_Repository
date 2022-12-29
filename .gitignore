@@ -1,0 +1,6 @@
+# Folder name
+.vscode
+
+# File name
+*.class
+*.txt
